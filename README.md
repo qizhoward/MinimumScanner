@@ -3,10 +3,9 @@ MinimumScannerOfZone
 最小扫描器
   
     空间最小扫描器
-    
-    project：
-    　MinimumScannerOfZone
-　　　Linux and break Linux programm
+    project：</br>
+    MinimumScannerOfZone
+　　Linux and break Linux programm
      ｜
      ｜－－－
      ｜　｜
