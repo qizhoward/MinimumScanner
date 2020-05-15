@@ -23,6 +23,7 @@ MinimumScannerOfZone
     ｜　｜　｜usb 摄像机
     ｜　｜　｜usb 红色激光
     ｜　｜　｜空心杯电机
+    ｜　｜　｜用于旋转摄像机激光
     ｜　｜ 
     ｜　｜　
     ｜　｜齿轮升降机>=3.3v　min=3.3v max>=3.3v　>=220v
