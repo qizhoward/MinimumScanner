@@ -6,10 +6,10 @@ MinimumScannerOfZone
     project：</br>
     MinimumScannerOfZone
 　　Linux and break Linux programm
-     ｜
-     ｜－－－
-     ｜　｜
-     ｜　｜－－－
+    ｜
+    ｜－－－
+    ｜　｜
+    ｜　｜－－－
      ｜　｜
      ｜　｜电源电压220v 5v 7v 9v 3.3v
      ｜　｜－－－
